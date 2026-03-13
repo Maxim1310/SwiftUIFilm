@@ -52,10 +52,7 @@ struct ContentView: View {
                         }
                         .offset(y: 20)
                     
-                    
                 }
-                
-                
             }
             
         }
